@@ -1,9 +1,9 @@
 https://getthebook-uas.000webhostapp.com/index.php/login
 
-<br>Admin<br>
-username : admin<br>
+Admin
+username : admin
 password : 123
 
-<br>Operator<br>
-username : operator<br>
+Operator
+username : operator
 password : 123
